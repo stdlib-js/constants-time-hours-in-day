@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import HOURS_IN_DAY from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-hours-in-day@v0.0.8-esm/index.mjs';
+import HOURS_IN_DAY from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-hours-in-day@esm/index.mjs';
 ```
 
 #### HOURS_IN_DAY
@@ -71,7 +71,7 @@ var bool = ( HOURS_IN_DAY === 24 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@esm/index.mjs';
-import HOURS_IN_DAY from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-hours-in-day@v0.0.8-esm/index.mjs';
+import HOURS_IN_DAY from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-hours-in-day@esm/index.mjs';
 
 var hrs;
 var d;
