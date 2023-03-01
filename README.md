@@ -111,7 +111,7 @@ for ( i = 0; i < 10; i++ ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/time/hours-in-week`][@stdlib/constants/time/hours-in-week]</span><span class="delimiter">: </span><span class="description">number of hours in a week.</span>
+-   <span class="package-name">[`@stdlib/constants-time/hours-in-week`][@stdlib/constants/time/hours-in-week]</span><span class="delimiter">: </span><span class="description">number of hours in a week.</span>
 
 </section>
 
